@@ -4,8 +4,8 @@
 
 程序效果如下
 
-![result](D:\Programming\python\Syntax Tree Draw\result.JPG)
+![result]( https://raw.githubusercontent.com/mygirlloveme/draw-syntax-tree/master/result.JPG )
 
 配置的xml格式如下：
 
-![xml](D:\Programming\python\Syntax Tree Draw\xml.JPG)
+![xml]( https://raw.githubusercontent.com/mygirlloveme/draw-syntax-tree/master/xml.JPG )
